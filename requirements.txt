@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+tensorflow==2.16.1
+flask[async]==3.0.3
+gunicorn
+scikit-learn==1.5.0
+joblib==1.4.2
